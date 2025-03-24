@@ -57,3 +57,7 @@ alias mygit=/path/to/your/repo/your_program.sh
 mkdir -p /tmp/testing && cd /tmp/testing
 mygit init
 ```
+
+## License
+
+This project is licensed under the GNU General Public License v3.0. See the LICENSE file for details.
